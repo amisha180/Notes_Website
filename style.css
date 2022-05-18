@@ -1,0 +1,9 @@
+.btn{
+    margin:10px 0px;
+}
+.card-body{
+    background-color: lightgray;
+}
+h1,h2,h5{
+    color: darkblue;
+}

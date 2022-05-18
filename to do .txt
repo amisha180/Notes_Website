@@ -1,0 +1,8 @@
+1. added title for notes
+2. added mark as important
+3. asking for confirmation before deleting important marked note
+4. improved search
+5. search suggestions for notes title
+6. form validations before adding note
+7. Editable notes
+8. Import - export notes
